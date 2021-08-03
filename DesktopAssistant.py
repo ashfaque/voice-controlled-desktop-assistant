@@ -95,7 +95,7 @@ def google(query):
 if __name__ == "__main__":
     wishMe()
     while True:        # Run forever
-        # if 1:        # Run once
+    # if 1:            # Run once
         query = takeCommand().lower()
 
         if "wikipedia" in query:
