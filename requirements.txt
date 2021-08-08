@@ -1,6 +1,14 @@
-SpeechRecognition==3.8.1
-requests==2.25.1
-PyAudio==0.2.11
-wikipedia==1.4.0
-pyttsx3==2.90
 beautifulsoup4==4.9.3
+certifi==2021.5.30
+chardet==4.0.0
+comtypes==1.1.10
+idna==2.10
+PyAudio @ https://download.lfd.uci.edu/pythonlibs/y2rycu7g/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+pypiwin32==223
+pyttsx3==2.90
+pywin32==301
+requests==2.25.1
+soupsieve==2.2.1
+SpeechRecognition==3.8.1
+urllib3==1.26.6
+wikipedia==1.4.0
